@@ -5,7 +5,6 @@
 struct infoPersona{
     char dni[9];
     char nombre[20];
-    int w;
 };
 
 struct nodoPersona {
